@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Projects\ThemeColorApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Projects\ThemeColorApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e62acd8ec844cec74b6a861a6e1f2ffcf3b88616\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Projects\ThemeColorApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="68d82b09c37c723e08922a3a954cad516ee9c241">
+        <dex dex="C:\Projects\ThemeColorApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_604835347065b8ef0d2d28f66181ab05572f6333\classes.dex" />
+    </item>
+
+</items>
